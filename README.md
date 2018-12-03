@@ -1,6 +1,6 @@
-# Tensorflow Titanic Survivors Classification
+# Overview
 
-Some algorithms for Titanic survivors classification.
+We try to predict which of the passengers would have survived the titanic tragedy. We test several algorithms for this task. Model is trained on "Titanic Data Set". We take into account such features as age, sex, academic title, ticket class, etc and try to predict will person survived.
 
 ## Info about dataset
 
