@@ -21,7 +21,7 @@ We try to predict which of the passengers would have survived the titanic traged
 ## Requirements
 
 * [Scikit-Learn](https://scikit-learn.org/stable/) - Data mining and data analysis library
-* [Numpy](http://www.numpy.org) - Library to computation on arrays
+* [Numpy](http://www.numpy.org) - Package for scientific computing
 * [Pandas](https://pandas.pydata.org) - Data analysis library
 * [Seaborn](https://seaborn.pydata.org) - Data visualization library based on matplotlib
 
